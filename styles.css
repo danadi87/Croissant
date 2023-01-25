@@ -1,0 +1,25 @@
+body {
+  background-color: fuchsia;
+}
+h1,
+p {
+  text-align: center;
+}
+footer {
+  display: block;
+  text-decoration: none;
+  margin: 0 10px;
+  color: green;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+a {
+  text-align: center;
+}
+.div {
+  display: block;
+}
